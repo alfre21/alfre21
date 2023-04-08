@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @alfre21
-- 👀 I’m interested in computer science and technology
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
-- 💞️ I’m looking to collaborate on web projects
 
 
 <!---
